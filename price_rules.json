@@ -1,0 +1,26 @@
+{
+    "VOUCHER": {
+        "name": "Voucher",
+        "price": 5.00,
+        "discount_type": "two_for_one"
+    },
+    "TSHIRT": {
+        "name": "T-shirt",
+        "price": 20.00,
+        "discount_type": "bulk",
+        "bulk_quantity": 3,
+        "discount_price": 19.00
+    },
+    "MUG": {
+        "name": "Coffee mug",
+        "price": 7.50,
+        "discount_type": "two_for_one"
+    },
+    "JEANS": {
+        "name": "Jeans",
+        "price": 15.50,
+        "discount_type": "bulks",
+        "bulk_quantity": 3,
+        "discount_price": 14.00
+    }
+}
